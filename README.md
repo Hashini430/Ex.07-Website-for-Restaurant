@@ -25,6 +25,7 @@ Step 7:
 Publish the website in the given URL.
 
 PROGRAM:
+```
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -577,4 +578,18 @@ contact.html
   </footer>
 </body>
 </html>
+```
 OUTPUT:
+
+<img width="1037" height="586" alt="image" src="https://github.com/user-attachments/assets/a72333ca-a1ff-4a6b-95ed-c80ac7c4ed0e" />
+
+<img width="1095" height="587" alt="image" src="https://github.com/user-attachments/assets/c58785aa-0302-4207-bcdd-835384f42eea" />
+
+<img width="1037" height="928" alt="image" src="https://github.com/user-attachments/assets/d2d47e51-8413-48ba-ab2a-3011aa60c834" />
+
+<img width="1034" height="868" alt="image" src="https://github.com/user-attachments/assets/d32b9edb-3a4c-41f6-b0cf-8ad4e810ad4e" />
+RESULT:
+The program for designing software company website using HTML and CSS is completed successfully.
+
+
+
